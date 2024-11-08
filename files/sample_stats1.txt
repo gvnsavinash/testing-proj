@@ -1,0 +1,8 @@
+File: sample.txt
+Entity type : Number of occurrences
+
+PERSON : 5
+DATE : 3
+PHONE : 4
+ADDRESS : 11
+
